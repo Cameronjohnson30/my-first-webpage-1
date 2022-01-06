@@ -1,0 +1,17 @@
+[33mcommit e0ec6e0bec201021e66298894f8ffb3be0f7041b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Sploob <crayiphone@gmail.com>
+Date:   Wed Jan 5 19:42:32 2022 -0800
+
+    add list elements
+
+[33mcommit 61943c594bc88fdba72496c4816c5cb78601e823[m
+Author: Sploob <crayiphone@gmail.com>
+Date:   Wed Jan 5 19:34:46 2022 -0800
+
+    add heading block elements
+
+[33mcommit aa109ebaff440dc42990baff7fa36d4fd4ecb1c8[m
+Author: Sploob <crayiphone@gmail.com>
+Date:   Wed Jan 5 19:31:56 2022 -0800
+
+    add initial paragraph block elements to the page
