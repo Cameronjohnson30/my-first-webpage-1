@@ -1,0 +1,18 @@
+h1 {
+  color:pink;
+  font-size: 500%;
+}
+ul {
+  color: yellow;
+  font-size: 50px;
+  line-height: 50px;
+  text-align: center;
+
+
+}
+a {
+  color:rosybrown;
+  font-style:italic;
+  font-size:large;
+}
+
