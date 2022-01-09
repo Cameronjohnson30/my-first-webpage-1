@@ -15,4 +15,14 @@ a {
   font-style:italic;
   font-size:large;
 }
+ body{
+   background-color: black;
+   text-align: center;
+ }
 
+li{
+  text-align: left;
+}
+
+p {color: white;
+}
