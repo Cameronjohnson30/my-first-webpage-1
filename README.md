@@ -19,7 +19,7 @@ _This website displays information about some of my favorite things and places. 
 ## Setup/Installation Requirements
 
 * _Clone or download the repository_
-* _Open HTML file my-first-webpage.html_
+* _Open HTML file index.html_
 * _to alter the code, open the documents in an IDE or text document_
 * _Any changes should incorporate properly formatted commits with regular history_
 * _for effective commit messages [Checkout](https://cbea.ms/git-commit/) This article by CBEAMS_
