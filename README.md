@@ -1,7 +1,7 @@
 # My First Webpage
 
-#### By _**Cameron Ray**_
-#### _**Co-Authored by Cameron Johnson**_
+#### By _**Cameron Johnson**_
+#### _**Co-Authored by Cameron Ray**_
 
 #### _First website project displaying rudimentary HTML & CSS styling_
 
