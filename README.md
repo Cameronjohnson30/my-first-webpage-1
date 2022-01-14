@@ -14,7 +14,7 @@
 
 ## Description
 
-_This website displays information about some of my favorite things and places. It was constructed with the guidance of Epicodus and was co-authored by a classmate **Cameron Johnson**. The website does not currently incorporate javascript or associated libraries._
+_This website displays information about some of my favorite things and places. It was constructed with the guidance of Epicodus and was co-authored by a classmate **Cameron Ray**. The website does not currently incorporate javascript or associated libraries._
 
 ## Setup/Installation Requirements
 
@@ -35,4 +35,4 @@ _This website displays information about some of my favorite things and places. 
 
 _This code utilizes a GPL License. If you have any issues/find bugs. Feel free to report them to me at here or contribute a fix to the code. Thanks!_
 
-Copyright (c) _January 10, 2022_ _Cameron Ray(s)_
+Copyright (c) _January 10, 2022_ _Cameron Johnson(s)_
